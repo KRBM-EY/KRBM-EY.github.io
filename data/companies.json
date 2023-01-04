@@ -1,0 +1,41 @@
+{
+    "AFLAC INC": {
+        "error": false,
+        "outputTable": {
+            "years": [
+                2021,
+                2020,
+                2019
+            ],
+            "labels": [
+                "Effective tax rate",
+                "Weighted tax rate",
+                "Tax gap (U.S.)",
+                "Tax gap (international)"
+            ],
+            "rows": [
+                [
+                    18.7,
+                    -14.9,
+                    25.7
+                ],
+                [
+                    28.532310252731858,
+                    28.547241015681983,
+                    28.545992791474177
+                ],
+                [
+                    2.3,
+                    35.9,
+                    -4.7
+                ],
+                [
+                    9.8,
+                    43.4,
+                    2.8
+                ]
+            ]
+        },
+        "score": 28.532310252731858
+    }
+}
